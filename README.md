@@ -2,6 +2,9 @@
 
 🎯 Aspiring **Junior Software Tester** with a strong foundation in language, communication, and analytical thinking. I'm transitioning into QA/Test with hands-on experience in data annotation and quality review, and I'm passionate about delivering reliable, user-friendly software.
 
+
+💡 I bring a strong eye for detail, excellent communication skills, and a constant desire to learn. I'm building a foundation in QA to grow into a confident and capable software tester.
+
 ---
 
 ## 💼 About Me
@@ -11,7 +14,7 @@
 - 🤖 Former **AI Trainer** at SCALE AI, worked on data labeling and quality control
 - 🧪 Passionate about **manual and automated testing**
 - 🛠️ Tools and technologies I’m learning:
-  - **Selenium, Postman, Git, GitHub, JIRA, Python, HTML/CSS**
+  - **Selenium, Postman, Git, GitHub, JIRA, Python, JavaScript**
   - Test case writing, bug reporting, test plan design
 ---
 
@@ -43,7 +46,3 @@
 <a href="https://linkedin.com/in/sena-baser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sena-baser" height="30" width="40" /></a>
 <a href="mailto:sena.baser20@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="sena-baser" height="30" width="40" /></a>
 </p>
-
----
-
-💡 I bring a strong eye for detail, excellent communication skills, and a constant desire to learn. I'm building a foundation in QA to grow into a confident and capable software tester.
